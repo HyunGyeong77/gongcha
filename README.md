@@ -1,5 +1,5 @@
 # GONGCHA
-병원 포털 사이트
+공차 포털 사이트
 
 ## 🔗 바로가기
 [gongcha](https://hyungyeong77.github.io/gongcha)
